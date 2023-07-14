@@ -6,6 +6,7 @@
 # 💫 About Me:
 <img align="right" alt="developer" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 🔭 I’m currently studying Computer Science<br>👯 I’m looking to collaborate on web projects<br><br>
+📫 How to reach me -tanianegi993@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -27,8 +28,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-📫 How to reach me -tanianegi993@gmail.com<br>
 [![](https://visitcount.itsvg.in/api?id=TanyaNegi10&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishal8113&icon=0&color=0)](https://visitcount.itsvg.in)
+
